@@ -7,6 +7,9 @@
   "scripts": {
     "dev": "nodemon index.js"
   },
+  "git": {
+    "url": "https://github.com/Daver2910/middle-man-server"
+  },
   "dependencies": {
     "axios": "^0.17.1",
     "cors": "^2.8.4",
